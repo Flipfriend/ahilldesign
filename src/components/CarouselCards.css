@@ -1,0 +1,120 @@
+.CarouselCards {
+    display: flex;
+    flex-direction: row;
+    min-width: 1024px;
+    max-width: 1920px;
+    height: 543px;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border: 2px solid var(--obj-01);
+}
+
+.carousel-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex: 1 0 0;
+    align-self: stretch;
+}
+
+.case-container {
+    display: flex;
+    align-items: flex-start;
+    flex: 1 0 0;
+    align-self: stretch;
+    border-left: 2px solid var(--obj-01);
+    border-right: 2px solid var(--obj-01);
+}
+
+.carousel-arrow {
+    display: flex;
+    padding: 16px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    align-self: stretch;
+    cursor: pointer;
+}
+
+.cc-arrow {
+    width: 24px;
+    height: 64px;
+}
+
+.image-container {
+    display: flex;
+    min-width: 320px;
+    max-width: 580px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-self: stretch;
+}
+
+.caseImage {
+    width: 100%;
+    height: 100%;
+}
+
+.meta-case-container {
+    display: flex;
+    padding: 64px 56px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 40px;
+    flex: 1 0 0;
+    align-self: stretch;
+}
+
+.divider {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--obj-01);
+    width: 2px;
+    height: 100%;
+}
+
+.text-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    align-self: stretch;
+}
+
+
+.contain-button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 8px;
+    margin-top: 40px;
+}
+
+.title{
+    font-family: var(--font-button-family), sans-serif;
+    font-style: var(--font-button-style);
+    font-weight: var(--font-button-weight);
+    font-size: var(--font-button-size);
+    line-height: var(--font-button-line-height);
+    letter-spacing: var(--font-button-letter-spacing);
+    text-decoration: var(--font-button-text-decoration);
+}
+
+.description{
+    font-family: var(--font-h4-family);
+    font-size: var(--font-h4-size);
+    font-weight: var(--font-h4-weight);
+    font-style: var(--font-h4-style);
+    line-height: var(--font-h4-line-height);
+    letter-spacing: var(--font-h4-letter-spacing);
+    text-decoration: var(--font-h4-text-decoration);
+    text-transform: var(--font-h4-text-transform);
+}
+.tags{
+
+}

@@ -1,0 +1,46 @@
+/**
+@font-face {
+    font-family: 'global-icons';
+    src: url(/src/assets/)
+    font-weight: normal;
+    font-style: normal;
+}
+**/
+
+/***************  fonts ***************/
+@font-face {
+    font-family: 'Cormorant Garamond', serif;
+    src: 
+        local('Cormorant Garamond')
+        url('../fonts/Cormorant_Garamond/CormorantGaramond-Italic.woff2') format('woff2');  
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Cormorant Garamond', serif;
+    src: 
+        local('Cormorant Garamond')
+        url('../fonts/Cormorant_Garamond/CormorantGaramond-Regular.woff2') format('woff2');  
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cormorant Garamond', serif;
+    src: 
+        local('Cormorant Garamond')
+        url('../fonts/Cormorant_Garamond/CormorantGaramond-Bold.woff2') format('woff2');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Libre Franklin', sans-serif;
+    src: 
+        local('Libre Franklin')
+        url('../fonts/Libre_Franklin/LibreFranklin-Italic-VariableFont_wght.woff2') format('woff2');
+    font-weight: 300;
+    font-style: italic;
+}
+ 

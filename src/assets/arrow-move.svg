@@ -1,0 +1,6 @@
+<svg className="iconArrow" width="36" height="17" viewBox="0 0 36 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Arrow-move">
+<path id="Arrow" d="M20 1.5L28 8.51165L20 15.5" stroke="black" style="stroke:black;stroke:black;stroke-opacity:1;" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Arrow_2" d="M28 8.5L2 8.5" stroke="black" style="stroke:black;stroke:black;stroke-opacity:1;" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

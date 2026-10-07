@@ -1,0 +1,96 @@
+:root {
+
+    --ui-bg: #FAFEFE;
+    --ui-01: #FFFCF0;
+    --obj-01: #0E1C36;
+    --interactive-01: #E5D17D;
+    --interactive-01-hover: #E0C34D;
+    --interactive-obj-01: #000000;
+
+    /**** font styles ****/
+
+    --font-family-primary: 'Cormorant Garamond';
+    --font-family-secondary: 'Libre Franklin', ;
+
+    --font-h1-family: 'Cormorant Garamond';
+    --font-h1-size: 36px;
+    --font-h1-weight: 500;
+    --font-h1-style: normal;
+    --font-h1-line-height: 150%;
+    --font-h1-letter-spacing: 1.8px;
+    --font-h1-text-transform: uppercase;
+
+    --font-h1: var(--font-h1-style) var(--font-h1-weight) var(--font-h1-size) var(--font-h1-line-height) var(--font-h1-letter-spacing) var(--font-h1-family);
+
+
+    --font-h1-emphasis-family: 'Libre Franklin';
+    --font-h1-emphasis-size: 36px;
+    --font-h1-emphasis-weight: 600;
+    --font-h1-emphasis-style: italic;
+    --font-h1-emphasis-line-height: 150%;
+    --font-h1-emphasis-letter-spacing: 1.8px;
+    --font-h1-emphasis-text-transform: uppercase;
+
+    --font-h1-emphasis: var(--font-h1-emphasis-style) var(--font-h1-emphasis-weight) var(--font-h1-emphasis-size) var(--font-h1-emphasis-line-height) var(--font-h1-emphasis-letter-spacing) var(--font-h1-emphasis-family);
+
+
+    --font-h2-family: 'Cormorant Garamond';
+    --font-h2-size: 26px;
+    --font-h2-weight: 600;
+    --font-h2-style: italic;
+    --font-h2-line-height: normal;
+    --font-h2-letter-spacing: 1.69px;
+    --font-h2-text-decoration: underline;
+    --font-h2-text-transform: uppercase;
+
+    --font-h2: var(--font-h2-style) var(--font-h2-weight) var(--font-h2-size) var(--font-h2-line-height) var(--font-h2-letter-spacing)  var(--font-h2-text-decoration) var(--font-h2-family);
+
+
+    --font-h2-skills-family: 'Cormorant Garamond';
+    --font-h2-skills-size: 26px;
+    --font-h2-skills-weight: 600;
+    --font-h2-skills-style: italic;
+    --font-h2-skills-line-height: normal;
+    --font-h2-skills-letter-spacing: 1.69px;
+    --font-h2-skills-text-decoration: none;
+    --font-h2-skills-text-transform: uppercase;
+
+    --font-h2-skills: var(--font-h2-skills-style) var(--font-h2-skills-weight) var(--font-h2-skills-size) var(--font-h2-skills-line-height) var(--font-h2-letter-spacing)  var(--font-h2-skills-text-decoration) var(--font-h2-skills-family);
+
+    /** email address **/
+    --font-h3-family: 'Libre Franklin';
+    --font-h3-size: 26px;
+    --font-h3-weight: 300;
+    --font-h3-style: italic;
+    --font-h3-line-height: normal;
+    --font-h3-letter-spacing: 1.3px;
+    --font-h3-text-decoration: underline;
+    --font-h3-text-transform: lowercase;
+
+    --font-h3: var(--font-h3-style) var(--font-h3-weight) var(--font-h3-size) var(--font-h3-line-height) var(--font-h3-letter-spacing)  var(--font-h3-text-decoration) var(--font-h3-family);
+
+
+    --font-h4-family: 'Cormorant Garamond';
+    --font-h4-size: 20px;
+    --font-h4-weight: 500;
+    --font-h4-style: normal;
+    --font-h4-line-height: normal;
+    --font-h4-letter-spacing: 1px;
+    --font-h4-text-decoration: none;
+    --font-h4-text-transform: normal;
+
+    --font-h4: var(--font-h4-style) var(--font-h4-weight) var(--font-h4-size) var(--font-h4-line-height) var(--font-h4-letter-spacing)  var(--font-h4-text-decoration) var(--font-h4-family);
+
+    --font-button-family: 'Libre Franklin';
+    --font-button-size: 24px;
+    --font-button-weight: 300;
+    --font-button-style: italic;
+    --font-button-line-height: normal;
+    --font-button-letter-spacing: 1.3px;
+    --font-button-text-decoration: none;
+    --font-button-text-transform: uppercase;
+
+    --font-button: var(--font-button-style) var(--font-button-weight) var(--font-button-size) var(--font-button-line-height) var(--font-button-letter-spacing)  var(--font-button-text-decoration) var(--font-button-family);
+
+
+}

@@ -1,0 +1,30 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    align-self: stretch;
+    padding: 32px;
+    border-right: 2px solid var(--obj-01);
+    border-left: 2px solid var(--obj-01);
+
+}
+
+
+.icon-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+
+.social-icon {
+    color: var(--obj-01);
+}

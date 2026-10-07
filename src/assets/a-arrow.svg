@@ -1,0 +1,11 @@
+<svg className="aArrow" width="47" height="38" viewBox="0 0 47 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="a-arrow" clip-path="url(#clip0_241_266)">
+<path id="tri" fill-rule="evenodd" clip-rule="evenodd" d="M1.29257 32.9576C-0.47957 35.7388 1.70744 39.2004 5.22918 39.1885L42.2075 39.0637C45.7293 39.0518 47.9444 35.5753 46.1948 32.806L27.824 3.72859C26.0744 0.95931 21.6722 0.974178 19.9001 3.75535L1.29257 32.9576ZM5.91627 32.5951C5.0302 33.9857 6.1237 35.7165 7.88457 35.7106L39.5803 35.6035C41.3412 35.5976 42.4487 33.8594 41.5739 32.4747L25.8275 7.55122C24.9527 6.16658 22.7516 6.17401 21.8656 7.5646L5.91627 32.5951Z" fill="#0E1C36" style="fill:#0E1C36;fill:color(display-p3 0.0549 0.1098 0.2118);fill-opacity:1;"/>
+<path id="tri-block" d="M20.9811 26.0637C22.1584 24.2001 24.8762 24.2001 26.0535 26.0637L36.4912 42.5845C37.7533 44.5821 36.3179 47.1869 33.955 47.1869L13.0796 47.1869C10.7167 47.1869 9.2813 44.5821 10.5434 42.5845L20.9811 26.0637Z" fill="#0E1C36" style="fill:#0E1C36;fill:color(display-p3 0.0549 0.1098 0.2118);fill-opacity:1;"/>
+</g>
+<defs>
+<clipPath id="clip0_241_266">
+<rect width="48" height="40" fill="white" style="fill:white;fill:white;fill-opacity:1;"/>
+</clipPath>
+</defs>
+</svg>

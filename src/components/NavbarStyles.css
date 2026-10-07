@@ -1,0 +1,42 @@
+.nav {
+    display: flex;
+    min-width: 1024px;
+    max-width: 1920px;
+    justify-content: space-between;
+    align-items: flex-start;
+    border-right: 2px solid var(--obj-01);
+    border-left: 2px solid var(--obj-01);
+}
+
+.listNav{
+    list-style-type: none;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+.email-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.email {
+    padding: 32px 32px 32px 0px;
+    color: var(--obj-01);
+    font-family: var(--font-h3-family);
+    font-size: var(--font-h3-size);
+    font-weight: var(--font-h3-weight);
+    font-style: var(--font-h3-style);
+    line-height: var(--font-h3-line-height);
+    letter-spacing: var(--font-h3-letter-spacing);
+    text-decoration: var(--font-h3-text-decoration);
+    text-transform: var(--font-h3-text-transform);
+}
+
+.email:hover{
+    text-decoration: underline;
+}

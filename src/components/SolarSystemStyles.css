@@ -1,0 +1,15 @@
+
+.handWrap {
+    position: absolute;
+    right: -40px;
+    top: -90px;
+}
+
+.SolarSystemImage {
+    position: relative;
+}
+
+.image-container {
+    margin: auto;
+    position: relative;
+}

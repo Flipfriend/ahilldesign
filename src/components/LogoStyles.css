@@ -1,0 +1,23 @@
+.logo {
+    display: flex;
+    padding: 32px 32px 32px 32px;
+    align-items: flex-start;
+    gap: 16px;
+    align-items: baseline;
+}
+
+.aArrow {
+    width: 36px;
+    height: 32px;    
+}
+
+.wordmark {
+    color: var (--obj-01);
+    font-family: Gobold Hollow Bold;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 3.2px;
+    text-transform: uppercase;
+}
