@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Ahilldesign 
+Used React to recreate my portfolio website by hand using the Webflow version as a template. This project was written in VS Code in July of 2023.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
